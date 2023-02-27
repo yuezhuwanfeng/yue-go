@@ -1,0 +1,16 @@
+# Editor directories and subtaskFiles
+.idea
+.vscode
+log
+data
+static
+node_modules
+front/dist
+__pycache__
+templates
+venv
+temp
+*.pyc
+vsphere-automation-sdk-python
+test.py
+package-lock.json
